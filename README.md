@@ -14,5 +14,5 @@
 l1 ls: A Matlab Solver for Large-Scale ℓ1-Regularized Least Squares Problems (2007)
 by Kwangmoo Koh , Seungjean Kim , Stephen Boyd
 
- - Some results (data fram http://www.escience.cn/people/feiyunZHU/Dataset_GT.html)
+ - Some results (data from http://www.escience.cn/people/feiyunZHU/Dataset_GT.html)
  ![alt text](https://github.com/albertbou92/Spatial-LASSO-to-Unmixing-Hyperspectral-Images/blob/master/Result.png)
